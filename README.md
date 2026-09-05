@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Heonseong Park. I'm studying computer engineering at Kyung Hee University. I'm taking a leave of absence.
-
+My name is Heonseong Park. I'm studying computer engineering at Kyung Hee University. I am currently serving in the Army.
